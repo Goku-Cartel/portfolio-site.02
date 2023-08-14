@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(8, 9, 19, 0.521);
+    background-color: rgba(5, 3, 3, 0.801);
     
 }
 .nav-link{
@@ -12,6 +12,12 @@ body{
     position: fixed;
 }
 
+h1{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
 #navbar{
     position: fixed;
     background-color: black;
