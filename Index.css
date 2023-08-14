@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(8, 9, 19, 0.521);
+    
+}
+.nav-link{
+    color: black;
+}
+.card-link{
+    color: black;
+}
+.nav nav-tabs{
+    position: fixed;
+}
+
+#navbar{
+    position: fixed;
+    background-color: black;
+    color: aliceblue;
+}
+
+.mycard{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.cardb{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    
+}
+#carouselExampleDark{
+    justify-content: center;
+    margin: auto;
+}
+
+.carousel-item:nth-child(1) img {
+    width: 300px;
+  }
+
+  .carousel-item:nth-child(2) img {
+    width: 500px;
+  }
+
+  .Educate{
+    width: 440px;
+    height: 450px;
+    padding-left: 10px;
+    background-color: deepskyblue;
+    border-radius: 19px;
+    display: flexbox;
+    justify-content: space-around;
+    float: left;
+    margin: 0 30px;
+    margin-bottom: 20px;
+
+  }
